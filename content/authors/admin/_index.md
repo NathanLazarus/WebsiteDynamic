@@ -1,8 +1,8 @@
 ---
 title: Nathan Lazarus
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: ""
+avatar_filename: facebookprofile.jpg
+bio: My research interests include wage-setting and unemployment insurance.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -22,7 +22,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/NathanLazarus
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -30,13 +30,13 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: MIT and IZA
+    url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: M. A. Sc. Data, Economics and Development Policy
+      institution: Massachusetts Institute of Technology
+      year: 2022
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
@@ -51,6 +51,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m a research assistant in economics, working for Simon on projects in industrial organization, labor economics, and computational economics. In 2022, I’ll be at MIT pursuing a master’s degree. You can read more about my work [here](https://www.nathanlazarus.com/research), and you can contact me at [nlaz@stanford.edu](mailto:nlaz@stanford.edu).
 {style="text-align: justify;"}
