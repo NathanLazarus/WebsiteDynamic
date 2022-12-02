@@ -4,7 +4,7 @@ bio: I study labor economics, with a focus on wage-setting and labor market inst
 education:
   courses:
   - course: M.A.Sc. in Data, Economics and Development Policy
-    institution: Cornell University
+    institution: Massachusetts Institute of Technology
     year: 2022
   - course: B.A. in Economics
     institution: University of Colorado, Boulder
@@ -49,4 +49,4 @@ title:
 
 I study labor economics, focusing on wage setting and imperfect competition in labor markets. I work for Simon Jäger as a research assistant at the Massachusetts Institutute of Technology and the Institute for Labor Economics. I am also interested in topics in development economics and public finance.
 
-{{< staticref "media/teitelbaum_cv.pdf" "newtab" >}}{{< icon name="download" pack="fas" >}}{{< /staticref >}} Here's {{< staticref "media/teitelbaum_cv.pdf" "newtab" >}}a link to my CV{{< /staticref >}}.
+{{< staticref "media/teitelbaum_cv.pdf" "newtab" >}}{{< icon name="download" pack="fas" >}}{{< /staticref >}} Here's a link to my {{< staticref "media/Nathan Lazarus CV.pdf" "newtab" >}}CV{{< /staticref >}}.
