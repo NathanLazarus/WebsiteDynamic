@@ -1,57 +1,52 @@
 ---
-bio: My research interests include comparative political economy, data science and the politics of South Asia.
+bio: I study labor economics, with a focus on wage-setting and labor market institutions.
 
 education:
   courses:
-  - course: PhD in Government (Political Science)
+  - course: M.A.Sc. in Data, Economics and Development Policy
     institution: Cornell University
-    year: 2006
-  - course: BA in Political Science and Philosophy
-    institution: John Carroll University
-    year: 1997
+    year: 2022
+  - course: B.A. in Economics
+    institution: University of Colorado, Boulder
+    year: 2017
     
-email: "ejt@gwu.edu"
+email: "nlazarus@mit.edu"
 
 highlight_name: false
 
 interests:
-- Comparative political economy
-- Data science
-- South Asia
+- Monopsony in labor markets
+- Labor market institutions
+- Collective bargaining
 
 organizations:
-- name: The George Washington University
-  url: https://www.gwu.edu/
+- name: Massachusetts Institute of Technology
+  url: https://www.mit.edu/
   
-role: Associate Professor of Political Science and International Affairs
+role: Research Assistant
 
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:nlazarus@mit.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/eteitelbaum
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.com/citations?user=x146Ra0AAAAJ&hl=en
+  link: https://twitter.com/NathanLazarus3
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: fas
+#   link: https://scholar.google.com/citations?user=
 - icon: github
   icon_pack: fab
-  link: https://github.com/eteitelbaum
+  link: https://github.com/NathanLazarus
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/emmanuel-teitelbaum-75a93b4/
+  link: https://www.linkedin.com/in/nathanlazarus/
   
 superuser: true
 
 title: 
 ---
 
-I am an associate professor of political science and international affairs at [The George Washington University](https://www.gwu.edu). My research and writing explore how class conflict and compromise intersect with democracy and development. I also have a strong interest in labor standards and understanding how labor unions, nonprofit organizations, consumers and corporations can help to promote them.    
+I study labor economics, focusing on wage setting and imperfect competition in labor markets. I work for Simon Jäger as a research assistant at the Massachusetts Institutute of Technology and the Institute for Labor Economics. I am also interested in topics in development economics and public finance.
 
-At GW, I teach courses on comparative political economy, data science and South Asia. I am on faculty in the [Department of Political Science](https://politicalscience.columbian.gwu.edu/) and the [Elliott School of International Affairs](https://elliott.gwu.edu/) and am affiliated with the [Sigur Center for Asian Studies](https://sigur.elliott.gwu.edu/) as well as the Institute for [International Economic Policy](https://iiep.gwu.edu/). 
-
-I also serve as one of the managing editors for the [Journal of Development Studies](https://www.tandfonline.com/toc/fjds20/current).
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/teitelbaum_cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
+{{< staticref "media/teitelbaum_cv.pdf" "newtab" >}}{{< icon name="download" pack="fas" >}}{{< /staticref >}} Here's {{< staticref "media/teitelbaum_cv.pdf" "newtab" >}}a link to my CV{{< /staticref >}}.
