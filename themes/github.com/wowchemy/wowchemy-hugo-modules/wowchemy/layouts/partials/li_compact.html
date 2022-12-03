@@ -34,15 +34,21 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+      <!-- <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a> -->
+      ssdf{{ $item.Title }}
     </h3>
 
     {{ with $summary }}
-    <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
+    asdf
       <div class="article-style">
         {{.}}
       </div>
-    </a>
+
+      <!-- <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
+      <div class="article-style">
+        {{.}}
+      </div>
+    </a> -->
     {{ end }}
 
     <div class="stream-meta article-metadata">
