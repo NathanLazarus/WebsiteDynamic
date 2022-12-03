@@ -5,37 +5,17 @@
 
 [[main]]
   name = "Research"
-  url = "#books"
+  url = "#hm"
   weight = 20
 
 [[main]]
-  name = "Presentations"
-  url = "courses/"
-  weight = 30
-
-[[main]]
   name = "Teaching"
-  url = "#posts"
+  url = "#hm"
   weight = 30
-
-[[main]]
-  name = "Teaching"
-  url = "courses/"
-  weight = 40
-
-[[main]]
-  name = "Projects"
-  url = "project/"
-  weight = 50
-  
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
 [[main]]
    name = "CV"
-   url = "media/Nathan Lazarus CV.pdf"
+   url = "files/Nathan Lazarus CV.pdf"
    weight = 70
