@@ -10,6 +10,12 @@ image:
   preview_only: true
 publication: 
 url_pdf: 
-doi: 
+doi:
+links: 
+- name: Github
+  url: pdf/supplemental_information.pdf
+- name: Slides
+  url: pdf/supplemental_information.pdf
+
 ---
 
