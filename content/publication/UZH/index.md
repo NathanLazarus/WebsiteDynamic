@@ -1,10 +1,10 @@
 ---
-title: "Habit Preferences"
+title: "Dynamic Games and HTCondor"
 date: 2022-12-01
 publishDate: # 2021-01-05T20:13:52.626042Z
 authors: ["Nathan Lazarus"]
-publication_types: ["0"]
-abstract: "I study habit formation in worker preferences for jobs."
+publication_types: ["1"]
+abstract: "UZH slides"
 featured: true
 # image:
   # preview_only: true
