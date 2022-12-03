@@ -67,6 +67,7 @@
         {{.}}
       </div>
     </a> -->
+    
     {{ end }}
 
     <div class="stream-meta article-metadata">
@@ -84,8 +85,8 @@
       {{ end }}
 
       {{ if and $show_authors_only $item.Params.authors }}
-      <div>
         <!--This adds author names-->
+      <div>
         {{ partial "page_metadata_authors" $item }}
       </div>
       {{ else if not $show_authors_only }}

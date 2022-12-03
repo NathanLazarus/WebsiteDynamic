@@ -12,7 +12,7 @@ publication: Society for Computational Economics
 url_pdf: 
 doi:
 links: 
-- name: Github
+- name: GitHub
   url: https://github.com/NathanLazarus/ExhaustibleResourceDynamicGame
 - name: Slides
   url: files/DynamicGamesAndHTCondorCEF.pdf

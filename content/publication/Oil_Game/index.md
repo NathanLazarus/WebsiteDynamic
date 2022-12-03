@@ -12,10 +12,10 @@ publication:
 url_pdf: 
 doi:
 links: 
-- name: Github
+- name: GitHub
   url: https://github.com/NathanLazarus/ExhaustibleResourceDynamicGame
 - name: Slides
-  url: pdf/supplemental_information.pdf
+  url: files/DynamicGamesAndHTCondorCEF.pdf
 
 ---
 

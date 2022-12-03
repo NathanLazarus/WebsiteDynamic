@@ -12,9 +12,9 @@ publication:
 url_pdf: 
 doi:
 links: 
-- name: Github
+- name: GitHub
   url: https://github.com/NathanLazarus/MonopolyWealthInTheAgeOfTechnology/tree/main/Chapter%207
-- name: Slides (56–62)
+- name: Slides (see 56–62)
   url: files/DynamicGamesAndHTCondorCEF.pdf
 
 ---

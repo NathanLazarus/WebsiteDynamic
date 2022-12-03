@@ -13,10 +13,8 @@ publication:
 url_pdf: 
 doi:
 links: 
-- name: Github
-  url: pdf/supplemental_information.pdf
-- name: Slides
-  url: pdf/supplemental_information.pdf
+# - name: GitHub
+#   url: 
 
 ---
 

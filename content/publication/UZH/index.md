@@ -12,7 +12,7 @@ publication: University of Zürich Computational Economics Workshop
 url_pdf: 
 doi:
 links: 
-- name: Github
+- name: GitHub
   url: https://github.com/NathanLazarus/ExhaustibleResourceDynamicGame
 - name: Slides
   url: files/DynamicGamesAndHTCondorUZH.pdf
