@@ -36,14 +36,14 @@
     {{ block "main" . }}{{ end }}
   </div>
 
-  <div class="page-footer">
+  <!-- <div class="page-footer">
     {{/* Docs and Updates layouts include the site footer in a different location. */}}
     {{ if not (in (slice "book" "docs" "updates") .Type) }}
     <div class="container">
       {{ partial "site_footer" . }}
     </div>
     {{ end }}
-  </div>
+  </div> -->
 
   {{ partial "citation" . }}
 
