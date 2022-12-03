@@ -79,10 +79,10 @@
 
       {{ if and $show_authors_only $item.Params.authors }}
       <div>
-        {{ partial "page_metadata_authors" $item }}xxx
+        {{ partial "page_metadata_authors" $item }}
       </div>
       {{ else if not $show_authors_only }}
-        {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}yyy
+        {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
       {{ end }}
     </div>
 
