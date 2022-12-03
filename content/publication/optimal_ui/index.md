@@ -5,7 +5,7 @@ publishDate: # 2021-01-05T20:13:52.626042Z
 authors: ["Nathan Lazarus"]
 publication_types: ["0"]
 abstract: "I study the optimal unemployment benefit over time, calculating the value function for an unemployed agent."
-featured: false
+featured: true
 image:
   # preview_only: true
 publication: 
