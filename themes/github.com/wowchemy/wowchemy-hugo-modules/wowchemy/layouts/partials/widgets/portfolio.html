@@ -59,7 +59,7 @@
       {{ if eq $st.Params.design.view 1 }}
         {{ partial "portfolio_li_list" (dict "item" $item) }}
       {{ else if eq $st.Params.design.view 2 }}
-        {{ partial "portfolio_li_compact" (dict "item" $item) }}
+        {{ partial "portfolio_li_compact" (dict "item" $item) }}ddd
       {{ else if eq $st.Params.design.view 3 }}
         {{ partial "portfolio_li_card" (dict "widget" $st "index" $idx "item" $item "link" $link "target" $target) }}
       {{ else }}
