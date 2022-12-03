@@ -1,23 +1,23 @@
 ---
 bio: I study labor economics, with a focus on wage-setting and labor market institutions.
 
-education:
-  courses:
-  - course: M.A.Sc. in Data, Economics and Development Policy
-    institution: Massachusetts Institute of Technology
-    year: 2022
-  - course: B.A. in Economics
-    institution: University of Colorado, Boulder
-    year: 2017
+# education:
+#   courses:
+#   - course: M.A.Sc. in Data, Economics and Development Policy
+#     institution: Massachusetts Institute of Technology
+#     year: 2022
+#   - course: B.A. in Economics
+#     institution: University of Colorado, Boulder
+#     year: 2017
     
 email: "nlazarus@mit.edu"
 
 highlight_name: false
 
-interests:
-- Monopsony in labor markets
-- Labor market institutions
-- Collective bargaining
+# interests:
+# - Monopsony in labor markets
+# - Labor market institutions
+# - Collective bargaining
 
 organizations:
 - name: Massachusetts Institute of Technology
