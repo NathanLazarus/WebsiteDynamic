@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Mergers and the Decline in the Labor Share"
 date: 2022-12-01T00:01:00.000002Z
 publishDate: # 2021-01-05T20:13:52.626042Z
@@ -18,5 +18,5 @@ links:
 - name: Slides
   url: pdf/supplemental_information.pdf
 
----
+--- -->
 

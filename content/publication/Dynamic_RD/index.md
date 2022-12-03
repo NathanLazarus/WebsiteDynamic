@@ -1,10 +1,10 @@
 ---
-title: "Optimal UI"
-date: 2022-12-01T20:13:51.626042Z
+title: "A Dynamic Game of R&D Investment"
+date: 2022-12-01T00:04:00.00000Z
 publishDate: # 2021-01-05T20:13:52.626042Z
 authors: ["Mordecai Kurz", "Kenneth Judd", "Nathan Lazarus"]
 publication_types: ["0"]
-abstract: "We study dynamic R&D investment instead of the optimal unemployment benefit over time, calculating the value function for an unemployed agent. I study whether, conditional on a given level of expenditure, benefits should be flat or decline over time. Lindner and Reizer (2020) study a declining schedule in Hungary, but most countries have a flat benefit with a cliff after a certain number of weeks. A declining schedule increases the marginal incentive for job-finding, while a flat schedule distributes more to poorer individuals who have longer unemployment spells. "
+abstract: We study a dynamic investment game in which firms are differentiated by their R&D stocks and therefore productivities. When investing in R&D, firms face "success-breeds-success" probabilities, where accumulated successes improve their subsequent investment productivity. The government may seek to restrain firms' growth and create a more level playing field. We characterize the optimal policy under uncertainty.
 featured: true
 # image:
   # preview_only: true
@@ -13,9 +13,9 @@ url_pdf:
 doi:
 links: 
 - name: Github
-  url: pdf/supplemental_information.pdf
-- name: Slides
-  url: pdf/supplemental_information.pdf
+  url: https://github.com/NathanLazarus/MonopolyWealthInTheAgeOfTechnology/tree/main/Chapter%207
+- name: Slides (56–62)
+  url: files/DynamicGamesAndHTCondorCEF.pdf
 
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Dynamic Games and HTCondor"
-date: 2022-12-01
+date: 2022-06-15
 publishDate: # 2021-01-05T20:13:52.626042Z
-authors: ["Nathan Lazarus"]
+authors: ["Kenneth Judd", "Mordecai Kurz", "Nathan Lazarus"]
 publication_types: ["1"]
-abstract: "CEF slides"
+abstract: ""
 featured: true
 # image:
   # preview_only: true
-publication: 
+publication: Society for Computational Economics
 url_pdf: 
 doi:
 links: 
