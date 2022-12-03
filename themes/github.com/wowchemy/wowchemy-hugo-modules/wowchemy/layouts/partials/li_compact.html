@@ -36,7 +36,7 @@
 
     <h3 class="article-title mb-0 mt-0">
       <!-- <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a> -->
-      ssdf{{ $item.Title }}
+      {{ $item.Title }}
     </h3>
 <!-- 
   {{ with $summary }}
@@ -48,12 +48,12 @@
   {{ end }} -->
 
     {{ with $summary }}
-    asdf
+    <!-- 
       <div class="article-style">
         {{.}}
-      </div>
+      </div> -->
       <details>
-        <summary style=color:#ccaf50>Abstract (click to expand <a id="newtarget" class="anchor" aria-hidden="true">variation</a>)</summary> HELLO I AM DETAILS {{.}}
+        <summary style=color:#ccaf50>Abstract (click to expand)</summary> {{.}}
       </details>
 
       <!-- <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
