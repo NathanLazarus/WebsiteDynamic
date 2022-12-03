@@ -46,6 +46,6 @@ superuser: true
 title: 
 ---
 
-I study labor economics, focusing on wage setting and imperfect competition in labor markets. I work for Simon Jäger as a research assistant at the Massachusetts Institutute of Technology and the Institute for Labor Economics (IZA). I am also interested in topics in development economics and public finance. Test.
+I study labor economics, focusing on wage setting and imperfect competition in labor markets. I work for Simon Jäger as a research assistant at the Massachusetts Institutute of Technology and the Institute for Labor Economics (IZA). I am also interested in topics in development economics and public finance.
 
 {{< staticref "media/Nathan Lazarus CV.pdf" "newtab" >}}{{< icon name="download" pack="fas" >}}{{< /staticref >}} Here's a link to my {{< staticref "media/Nathan Lazarus CV.pdf" "newtab" >}}CV{{< /staticref >}}.
