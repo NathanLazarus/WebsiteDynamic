@@ -25,7 +25,8 @@
 {{ if $item.Params.summary }}
   {{ $summary = $item.Params.summary | markdownify | emojify }}
 {{ else if .Params.abstract }}
-  {{ $summary = .Params.abstract | markdownify | emojify | truncate (site.Params.abstract_length | default 135) }}
+  {{ $summary = .Params.abstract | markdownify | emojify }}
+  <!-- {{ $summary = .Params.abstract | markdownify | emojify | truncate (site.Params.abstract_length | default 135) }} -->
 {{ else if $item.Summary }}
   {{ $summary = $item.Summary }}
 {{ end }}
@@ -37,20 +38,23 @@
       <!-- <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a> -->
       ssdf{{ $item.Title }}
     </h3>
-
+<!-- 
   {{ with $summary }}
   <p class="pub-abstract">
   <details>
     <summary style=color:#ccaf50>Abstract (click to expand)</summary> {{.}}
   </details>
   </p>
-  {{ end }}
+  {{ end }} -->
 
     {{ with $summary }}
     asdf
       <div class="article-style">
         {{.}}
       </div>
+      <details>
+        <summary style=color:#ccaf50>Abstract (click to expand)</summary> {{HELLO I AM DETAILS}}
+      </details>
 
       <!-- <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
       <div class="article-style">
