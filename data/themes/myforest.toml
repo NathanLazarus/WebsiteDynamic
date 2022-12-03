@@ -1,5 +1,5 @@
 # Theme metadata
-name = "Forest"
+name = "myforest"
 
 [light]
   # Primary
@@ -8,7 +8,7 @@ name = "Forest"
   # Menu
   menu_primary = "#ccaf50"
   menu_text = "#fff"
-  menu_text_active = "#1b5e20"
+  menu_text_active = "#fb5e20"
   menu_title = "#fff"
 
   # Home sections
