@@ -1,6 +1,6 @@
 {{- define "main" -}}
 
-{{/* Check that user fully installed Wowchemy. */}}
+<!-- {{/* Check that user fully installed Wowchemy. */}}
 {{ if not (isset site.Params "theme") }}
   {{ errorf "Please complete the installation of Wowchemy by following the steps at https://wowchemy.com/docs/install/" }}
 {{ end }}
@@ -12,7 +12,7 @@
 {{ if eq (reflect.IsMap site.Params.address) false }}
   {{ errorf "Please upgrade the `address` field in `config/_default/params.toml`. Refer to all of the Breaking Changes in v4.5 at https://wowchemy.com/updates/v4.5.0/" }}
 {{ end }}
-{{ end }}
+{{ end }} -->
 
 {{/* Generate homepage. */}}
 {{ if eq .Type "book" }}
