@@ -11,7 +11,7 @@ active: true
 # Order that this section appears on the page.
 weight: 25
 
-title: Research in Progress
+title: Presentations
 subtitle: ''
 
 content:
@@ -27,9 +27,8 @@ content:
   filters:
     tag: ''
     category: ''
-    publication_type: ''
+    publication_type: "1"
     author: ''
-    exclude_featured: true
 design:
   # Choose a view for the listings:
   #   1 = List

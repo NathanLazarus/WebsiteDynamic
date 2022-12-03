@@ -11,7 +11,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Book
+title: Work in Progress
 subtitle: ""
 
 content:
@@ -23,7 +23,7 @@ content:
   filters:
     author: ""
     category: ""
-    publication_type: "5"
+    publication_type: ["0", "2", "3", "4", "5", "6", "7", "8"]
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
