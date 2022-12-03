@@ -1,5 +1,5 @@
 ---
-title: "Habit Preferences<a id="user-content-xxx" class="anchor" aria-hidden="true" href="#xxx">variation</a>"
+title: "Habit Preferences"
 date: 2022-12-01
 publishDate: # 2021-01-05T20:13:52.626042Z
 authors: ["Nathan Lazarus"]
