@@ -1,5 +1,5 @@
 ---
-title: "A Dynamic Game of R&D Investment"
+title: "Dynamic Games of R&D Investment"
 date: 2022-12-01T00:04:00.00000Z
 publishDate: # 2021-01-05T20:13:52.626042Z
 authors: ["Mordecai Kurz", "Kenneth Judd", "Nathan Lazarus"]
