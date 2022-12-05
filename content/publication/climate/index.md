@@ -13,8 +13,8 @@ publication:
 url_pdf: 
 doi:
 links: 
-# - name: GitHub
-#   url: 
+- name: GitHub
+  url: https://github.com/NathanLazarus/DSICECondor
 
 ---
 

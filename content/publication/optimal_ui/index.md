@@ -12,10 +12,10 @@ publication:
 url_pdf: 
 doi:
 links: 
-# - name: GitHub
-#   url: 
-# - name: Slides
-#   url: 
+- name: GitHub
+  url: https://github.com/NathanLazarus/OptimalUISchedules
+- name: Value Functions
+  url: https://github.com/NathanLazarus/OptimalUISchedules/blob/main/ValueFunctions.png
 
 ---
 
