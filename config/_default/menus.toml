@@ -11,7 +11,7 @@
 [[main]]
   name = "Teaching"
   url = "https://github.com/NathanLazarus/14.771-Development-Economics-2022" # #teaching
-  weight = 30
+  weight = 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.

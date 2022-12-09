@@ -16,6 +16,7 @@ links:
   url: https://github.com/NathanLazarus/ExhaustibleResourceDynamicGame
 - name: Slides
   url: files/DynamicGamesAndHTCondorUZH.pdf
+tags: "Presentation"
 
 ---
 

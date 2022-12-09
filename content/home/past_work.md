@@ -9,9 +9,9 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 25
+weight: 30
 
-title: Presentations
+title: Past Work
 subtitle: ''
 
 content:
@@ -25,7 +25,7 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: 'Presentation'
+    tag: 'Past Work'
     category: ''
     publication_type: "1"
     author: ''
