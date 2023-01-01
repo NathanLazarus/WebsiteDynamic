@@ -14,6 +14,8 @@ publication: Masters Thesis
 url_pdf: 
 doi:
 links: 
+- name: GitHub
+  url: https://github.com/NathanLazarus/JaegerHeining
 - name: Paper Text
   url: files/Masters Thesis.pdf
 tags: "Past Work"
