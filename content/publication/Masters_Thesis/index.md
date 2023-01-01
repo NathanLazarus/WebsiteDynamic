@@ -1,6 +1,6 @@
 ---
 title: "A Model of Worker Deaths and Firm Adjustment"
-date: 2017-12-12T00:00:00.00000Z
+date: 2022-08-12T00:00:00.00000Z
 publishDate: # 2021-01-05T20:13:52.626042Z
 authors: ["Nathan Lazarus"]
 publication_types: ["1"]
