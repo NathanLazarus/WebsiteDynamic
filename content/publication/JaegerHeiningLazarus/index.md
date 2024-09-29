@@ -1,5 +1,5 @@
 ---
-title: "A Model of Worker Deaths and Firm Adjustment"
+title: "How Substitutable Are Workers? Evidence from Worker Deaths"
 date: 2022-08-12T00:00:00.00000Z
 publishDate: # 2021-01-05T20:13:52.626042Z
 authors: ["Nathan Lazarus"]
