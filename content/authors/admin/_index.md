@@ -46,7 +46,7 @@ superuser: true
 title: 
 ---
 
-I study labor economics, focusing on wage setting, labor market institutions, and imperfect competition in labor markets. I work for Simon Jäger as a research assistant at the Massachusetts Institutute of Technology and the Institute for Labor Economics (IZA). Previously, I worked as a research assistant for Mordecai Kurz and Kenneth Judd at Stanford University. I am also interested in topics in development economics and public finance.
+I am a graduate student in economics at the Massachusetts Institutute of Technology. Previously, I worked for Simon Jäger as a research assistant at the Institute for Labor Economics (IZA) and as a research assistant for Mordecai Kurz and Kenneth Judd at Stanford University.
 
 <!-- I received a M.A.Sc. in Data, Economics and Development Policy from MIT in 2022 and a B.A. in Economics from the University of Colorado in 2017. I previously worked as a research assistant for Mordecai Kurz and Kenneth Judd at Stanford University. -->
 
