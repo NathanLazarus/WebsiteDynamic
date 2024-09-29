@@ -22,7 +22,7 @@ jobs:
         HUGO_VERSION: 0.101.0
         HUGO_EXTENDED: true
         TARGET_REPO: NathanLazarus/nathanlazarus.github.io
-        GH_PAT: ${{ secrets.MyPAT }}
+        TOKEN: ${{ secrets.MyPAT }}
         CNAME: www.nathanlazarus.com
         HUGO_ARGS: --debug
         GO_VERSION: 1.17
