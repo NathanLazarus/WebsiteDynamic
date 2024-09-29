@@ -1,5 +1,5 @@
 ---
-title: "Intervening to Reduce Pollution from Lead Battery Charging and Recycling"
+title: "Intervening to Reduce Lead Pollution from Lead-Acid Battery Charging and Recycling"
 date: 2022-12-01T00:03:00.00000Z
 publishDate: # 2021-01-05T20:13:52.626042Z
 authors: ["Mikey Jarrell", "Nathan Lazarus"]
