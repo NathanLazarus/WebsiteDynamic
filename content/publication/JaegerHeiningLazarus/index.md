@@ -14,7 +14,7 @@ publication: Conditionally Accepted, American Economic Review
 url_pdf: 
 doi:
 links: 
-tags: "Publications"
+tags: "publications"
 
 ---
 
