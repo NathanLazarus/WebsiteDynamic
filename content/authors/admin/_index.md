@@ -50,4 +50,4 @@ I am a graduate student in economics at the Massachusetts Institutute of Technol
 
 <!-- I received a M.A.Sc. in Data, Economics and Development Policy from MIT in 2022 and a B.A. in Economics from the University of Colorado in 2017. I previously worked as a research assistant for Mordecai Kurz and Kenneth Judd at Stanford University. -->
 
-{{< staticref "media/Nathan Lazarus CV.pdf" "newtab" >}}{{< icon name="download" pack="fas" >}}{{< /staticref >}} Here's a link to my {{< staticref "media/Nathan Lazarus CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< staticref "media/Nathan Lazarus CV.pdf" "newtab" >}}{{< icon name="download" pack="fas" >}}{{< /staticref >}} Here's a link to my {{< staticref "files/Nathan Lazarus CV.pdf" "newtab" >}}CV{{< /staticref >}}.
