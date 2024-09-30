@@ -22,7 +22,7 @@ highlight_name: false
 organizations:
 - name: Massachusetts Institute of Technology
   
-role: Research Assistant
+role: PhD Student
 
 social:
 - icon: envelope
