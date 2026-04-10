@@ -10,13 +10,14 @@ featured: true
 # image:
   # preview_only: true
 publication: Journal of Comments and Replications in Economics
-# url_pdf: https://jcr-econ.org/schooling-and-labor-market-consequences-of-school-construction-in-indonesia-reply/
+url_pdf: https://jcr-econ.org/schooling-and-labor-market-consequences-of-school-construction-in-indonesia-reply/
 doi:
 links: 
-# - name: Paper
-#   url: /files/Reply_to_Roodman.pdf
+- name: Paper
+  url: /files/Reply_to_Roodman.pdf
 - name: GitHub
   url: https://github.com/NathanLazarus/Duflo2001
+tags: "publications"
 
 ---
 
