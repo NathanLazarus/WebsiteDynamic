@@ -14,6 +14,8 @@ publication: Conditionally Accepted, American Economic Review
 url_pdf: 
 doi:
 links: 
+- name: Paper
+  url: /files/How_Substitutable_Are_Workers.pdf
 tags: "publications"
 
 ---

@@ -9,10 +9,12 @@ abstract: We reply to the comments of Roodman (2026) regarding the data and econ
 featured: true
 # image:
   # preview_only: true
-publication: Conditionally Accepted, American Economic Review
+publication: Journal of Comments and Replications in Economics
 url_pdf: https://jcr-econ.org/schooling-and-labor-market-consequences-of-school-construction-in-indonesia-reply/
 doi:
 links: 
+- name: Paper
+  url: /files/Reply_to_Roodman.pdf
 - name: GitHub
   url: https://github.com/NathanLazarus/Duflo2001
 

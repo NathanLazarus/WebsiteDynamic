@@ -1,6 +1,6 @@
 ---
 title: "Taxation and Labor Saving Technology"
-date: 2022-12-01T00:05:00.00000Z
+date: 2022-12-05T00:05:00.00000Z
 publishDate: # 2021-01-05T20:13:52.626042Z
 authors: ["Daron Acemoglu", "Nathan Lazarus", "Chantal Pezold"]
 publication_types: ["0"]
@@ -15,4 +15,3 @@ doi:
 links: 
 
 ---
-

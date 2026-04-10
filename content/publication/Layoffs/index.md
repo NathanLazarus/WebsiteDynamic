@@ -1,6 +1,6 @@
 ---
 title: "Efficient Layoff Prioritization"
-date: 2022-12-01T00:05:00.00000Z
+date: 2022-12-04T00:05:00.00000Z
 publishDate: # 2021-01-05T20:13:52.626042Z
 authors: ["Nathan Lazarus", "Chantal Pezold"]
 publication_types: ["0"]
@@ -15,4 +15,3 @@ doi:
 links: 
 
 ---
-
