@@ -10,7 +10,8 @@ featured: true
 # image:
   # preview_only: true
 publication: Journal of Comments and Replications in Economics
-url_pdf: https://jcr-econ.org/schooling-and-labor-market-consequences-of-school-construction-in-indonesia-reply/
+external_link: https://jcr-econ.org/schooling-and-labor-market-consequences-of-school-construction-in-indonesia-reply/
+url_pdf:
 doi:
 links: 
 - name: Paper

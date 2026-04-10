@@ -41,8 +41,11 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <!-- <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a> -->
+      {{ if $item.Params.external_link }}
+      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+      {{ else }}
       {{ $item.Title }}
+      {{ end }}
     </h3>
 <!-- 
   {{ with $summary }}
@@ -107,9 +110,13 @@
     {{ $filters := slice (images.GaussianBlur 21) (images.Pixelate 8) }}
     {{ $image := .Resize "150x" }}
     {{ $image_lq := (.Resize "150x q1").Filter $filters }}
+    {{ if $item.Params.external_link }}
     <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
       <img src="{{ $image_lq.RelPermalink }}" data-src="{{ $image.RelPermalink }}" alt="{{ $item.Title }}" class="lazyload">
     </a>
+    {{ else }}
+      <img src="{{ $image_lq.RelPermalink }}" data-src="{{ $image.RelPermalink }}" alt="{{ $item.Title }}" class="lazyload">
+    {{ end }}
     {{end}}
   </div>
 </div>
