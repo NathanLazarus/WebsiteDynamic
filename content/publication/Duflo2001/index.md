@@ -14,7 +14,7 @@ external_link: https://jcr-econ.org/schooling-and-labor-market-consequences-of-s
 url_pdf: /files/Reply_to_Roodman.pdf
 doi:
 links:
-- name: Published Version
+- name: Publisher's Version
   url: https://jcr-econ.org/schooling-and-labor-market-consequences-of-school-construction-in-indonesia-reply/
 - name: GitHub
   url: https://github.com/NathanLazarus/Duflo2001
