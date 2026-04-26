@@ -1,6 +1,6 @@
 ---
 title: "Schooling and Labor Market Consequences of School Construction in Indonesia: Response to a Comment"
-date: 2026-03-01T00:01:00.00000Z
+date: 2026-04-01T00:01:00.00000Z
 publishDate: # 2021-01-05T20:13:52.626042Z
 authors: ["Esther Duflo", "Allan Hsiao", "Mikey Jarell", "Nathan Lazarus"]
 publication_types: ["1"]
