@@ -1,6 +1,6 @@
 ---
 title: "How Substitutable Are Workers? Evidence from Worker Deaths"
-date: 2026-01-02T00:00:00.00000Z
+date: 2026-04-02T00:00:00.00000Z
 publishDate: # 2021-01-05T20:13:52.626042Z
 authors: ["Simon Jäger", "Jörg Heining", "Nathan Lazarus"]
 publication_types: ["1"]
